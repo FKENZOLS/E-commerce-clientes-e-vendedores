@@ -1,4 +1,4 @@
-# E-commerce: clientes e vendedores
+# E-commerce no Brasil: clientes e vendedores
 Análise de dados sobre e-commerce de clientes e vendedores no Brasil durante 2016-2018. Estudo dividido em duas partes: em relação aos estados e ao estado de São Paulo. 
 <br>
 Datasets utilizados:
